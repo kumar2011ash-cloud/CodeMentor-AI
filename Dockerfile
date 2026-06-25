@@ -18,4 +18,4 @@ EXPOSE 8000
 ENV PYTHONUNBUFFERED=1
 
 # Command to run the FastMCP server in the background and Streamlit in the foreground
-CMD ["sh", "-c", "python -m mcp.server & streamlit run frontend/app.py --server.address=0.0.0.0"]
+CMD ["sh", "-c", "python -m mcp_server_ext.server & streamlit run frontend/app.py --server.address=0.0.0.0"]

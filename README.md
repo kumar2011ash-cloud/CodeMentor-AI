@@ -208,7 +208,7 @@ docker-compose up --build
 
 **Running the MCP Server for your local IDE:**
 ```bash
-python -m mcp.server
+python -m mcp_server_ext.server
 ```
 
 ---
@@ -228,7 +228,7 @@ codementor-ai/
 │   └── security.py          # Strict Firewall & Rate Limit logic
 ├── frontend/
 │   └── app.py               # Glassmorphic Streamlit SaaS
-├── mcp/
+├── mcp_server_ext/
 │   └── server.py            # FastMCP native IDE extension bindings
 ├── .env.example
 ├── docker-compose.yml
