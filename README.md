@@ -26,7 +26,7 @@ CodeMentor AI is a state-of-the-art Model Context Protocol (MCP) server and Stre
 - 📺 **[Watch the 5-Minute YouTube Pitch Demo Output here](#)**
 - 🌐 **[Try the Live Streamlit App here](#)**
 
-![CodeMentor AI Pipeline Demo](https://via.placeholder.com/800x450.png?text=Placeholder:+GIF+of+Streamlit+Pipeline+Execution)
+![CodeMentor AI Pipeline Demo][(https://via.placeholder.com/800x450.png?text=Placeholder:+GIF+of+Streamlit+Pipeline+Execution](https://youtu.be/mtvfnv7K0fs)
 
 ---
 
