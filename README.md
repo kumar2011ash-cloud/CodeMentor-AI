@@ -11,7 +11,7 @@
 [![Docker Enabled](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-CodeMentor AI is a state-of-the-art Model Context Protocol (MCP) server and Streamlit dashboard built to eradicate LLM hallucinations in competitive coding. By utilizing a linear state-machine verification pipeline, it moves beyond "single prompt solving" into rigorous adversarial peer-review.
+CodeMentor AI is a state-of-the-art Model Context Protocol (MCP) server and Streamlit dashboard built to eradicate LLM hallucinations in competitive coding. By utilizing a linear state-machine ver[...]
 
 [Read the Kaggle Writeup](KAGGLE_WRITEUP.md) • [View Evaluation Metrics](EVALUATION_METRICS.md) • [Security Architecture](SECURITY_ARCHITECTURE.md)
 
@@ -23,10 +23,10 @@ CodeMentor AI is a state-of-the-art Model Context Protocol (MCP) server and Stre
 
 > **Note to Judges:** The live video pitch and deployed application links will be placed here.
 
-- 📺 **[Watch the 5-Minute YouTube Pitch Demo Output here](#)**
+- 📺 **[Watch the 2-Minute YouTube Pitch Demo Output here](https://youtu.be/mtvfnv7K0fs)**
 - 🌐 **[Try the Live Streamlit App here](#)**
 
-![CodeMentor AI Pipeline Demo](https://youtu.be/mtvfnv7K0fs)
+[![CodeMentor AI Pipeline Demo](https://via.placeholder.com/800x450.png?text=Placeholder:+GIF+of+Streamlit+Pipeline+Execution)](https://youtu.be/mtvfnv7K0fs)
 
 ---
 
